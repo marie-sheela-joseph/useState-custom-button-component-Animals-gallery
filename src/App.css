@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+}
+.container{
+    max-width: 1140px;
+    padding: 0 3rem;
+    margin: auto;
+}
+.center{
+    text-align: center;
+}
+button{
+    margin: 2rem;
+}
+li{
+    list-style-type: none;
+}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.d-flex >li{
+    width: 30%;
+}
+section{
+    padding: 7rem 0;
+}
+.animal-gallery{
+    background-color: rgb(173, 243, 173);
+}
+.showImage1{
+    width: 100%;
+    height: 300px;
+}
+.rel{
+    position: relative;
+}
+.abs{
+    position: absolute;
+    bottom:0;
+    right: 0;
+}
