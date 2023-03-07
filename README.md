@@ -4,7 +4,7 @@
 2.click on add image to see images one by one:
 ![image](https://user-images.githubusercontent.com/92960836/223539077-6d15a48d-e365-4d0c-917d-b61bd73649ac.png)
 
-3.click on any image to increase heart size:
+3.click on any image to increase heart size: when i click on same animal multiple times,the heart images increases with each click.
 ![image](https://user-images.githubusercontent.com/92960836/223539270-7fa32fc2-c79f-419b-927e-9277155a0772.png)
 
 4.click on reset:
