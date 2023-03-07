@@ -1,3 +1,17 @@
+1.on Page load:
+![image](https://user-images.githubusercontent.com/92960836/223538837-8327f1e6-005e-4902-874f-9ecb9771dbdd.png)
+
+2.click on add image to see images one by one:
+![image](https://user-images.githubusercontent.com/92960836/223539077-6d15a48d-e365-4d0c-917d-b61bd73649ac.png)
+
+3.click on any image to increase heart size:
+![image](https://user-images.githubusercontent.com/92960836/223539270-7fa32fc2-c79f-419b-927e-9277155a0772.png)
+
+4.click on reset:
+![image](https://user-images.githubusercontent.com/92960836/223539370-6a1a098c-982d-4d0e-aa87-89d646ea159a.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
