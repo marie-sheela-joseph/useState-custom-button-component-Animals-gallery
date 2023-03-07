@@ -7,9 +7,11 @@
 3.click on any image to increase heart size: when i click on same animal multiple times,the heart images increases with each click.
 ![image](https://user-images.githubusercontent.com/92960836/223539270-7fa32fc2-c79f-419b-927e-9277155a0772.png)
 
-4.click on reset:
-![image](https://user-images.githubusercontent.com/92960836/223539370-6a1a098c-982d-4d0e-aa87-89d646ea159a.png)
+4.when there are no more animals to show I display message suggesting to reset the page and also I disabled the "add image" button.
+![image](https://user-images.githubusercontent.com/92960836/223540578-bed6c258-b24d-4b73-b013-d43c0ba50055.png)
 
+5.click on reset: I enabled "add image" button and removed message
+![image](https://user-images.githubusercontent.com/92960836/223539370-6a1a098c-982d-4d0e-aa87-89d646ea159a.png)
 
 
 # Getting Started with Create React App
